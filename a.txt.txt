@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 kanak janwar
 pooja
+=======
+kanak
+pooja
+>>>>>>> c2c7c8529fd34e20533cfbb4f1d7e11fd6819557
